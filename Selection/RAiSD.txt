@@ -1,0 +1,1 @@
+/jarvis/scratch/usr/gabrielli/ursus/marsican/raisd/raisd-master/RAiSD -n $species -I /jarvis/scratch/usr/fabbri/bear/varcall/filtration/Ursus.allchr.hq.snp.masked.filt.GQ10.noallmiss.norepeat.highmap.noHetExcess.vcf.gz -S $species.txt -s
