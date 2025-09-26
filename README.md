@@ -1,5 +1,5 @@
 # Uarctos_popgen
-Git repository for *Ursus arctos marsicanus* project at University of Ferrara
+Git repository for *Ursus arctos marsicanus* project at University of Ferrara.
 
 See below for the preprint:
 
