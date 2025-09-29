@@ -1,4 +1,4 @@
-#!/bin/bash
+# This script runs PSMC for individuals of ABB and SBB (defined with 'code')
 
 WD=$1
 FINALOUTPATH=$2
