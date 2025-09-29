@@ -37,3 +37,6 @@ done
 ### run PSMC
 module load psmc-0.6.5
 psmc -N25 -t15 -r5 -p "4+25*2+4+6" -o output/"$code"_DP"$mindepth"_"$maxdepth".psmc input/"$code"_DP"$mindepth"_"$maxdepth".psmcfa
+
+### plot PSMC
+/opt/software/genetics/psmc-0.6.5/utils/psmc_plot.pl -R -n 25 -u 1.82e-8 -x 100 -X 100000000 -g 11 "$code"_DP"$mindepth"_"$maxdepth" output/"$code"_DP"$mindepth"_"$maxdepth".psmc
